@@ -1,2 +1,2 @@
 # hello_world
-As it says, hello_world. I'mma give this coding this a real go. After many fits and starts, this time is the time. I'm currently taking Harvard's EdX CS50 Intro to Computer Science course. 
+As it says, hello_world. I'mma give this coding this a real go. After many fits and starts, this time is the time. I'm currently taking Harvard's EdX CS50 Intro to Computer Science course. I have a buddy at about the same places in our lives. And now that he's moved third quarters across the country, we figured when better to begin collaborating. You know, it's only 1450 miles. But you get it, he was like ten minutes away when we lived in the same area. 10 WHOLE MINUTES. That a long drive. 
